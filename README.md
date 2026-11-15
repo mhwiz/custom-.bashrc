@@ -2,13 +2,6 @@
 
 A customized Bash prompt for **Parrot OS** that displays useful system and network information directly in the terminal.
 
-## Table of Contents
-
-1. [Overview](#1-overview)
-2. [Features](#2-features)
-3. [Installation](#3-installation)
-4. [Activating the Configuration](#4-activating-the-configuration)
-
 ---
 
 ## 1. Overview
